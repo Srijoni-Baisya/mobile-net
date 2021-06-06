@@ -1,0 +1,68 @@
+body{
+    font-family: 'Courgette', cursive;
+    background:linear-gradient(rgba(233,160,249,100),rgba(105,218,250,100));
+    padding: 10px;
+}
+.header_div{
+    color: rgb(134, 5, 96);
+}
+.header_div img{
+    width: 100px;
+    background: linear-gradient(rgba(233,160,249,100),rgba(105,218,250,100));
+}
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    font-size: 20px;
+    background-color: lightpink;
+    border-radius: 10px;
+    border:10px double;
+    box-shadow: 10px 10px 10px white;
+}
+.main_div label{
+    background-color: blue;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(207, 239, 250);
+    color: white;
+}
+#camera , #result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(207, 239, 250);
+}
+.main_div button{
+    width: 310px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px rgb(207, 239, 250);
+    border: 1px solid;
+}
+h2{
+    font-family: 'Special Elite', cursive;
+}
+.footer_div{
+    margin-bottom: 50px;
+   
+}
+.footer_div h4{
+    background: linen;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+    border:5px double;
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(24, 23, 23);
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
